@@ -1,0 +1,7 @@
+# Ignores for Ex1:
+linux*
+mnt
+*img
+rootfs
+# Ignores for Ex2:
+main
